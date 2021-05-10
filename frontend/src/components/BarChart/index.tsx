@@ -1,5 +1,10 @@
 import Chart from 'react-apexcharts';
 
+// type BarChartData = {
+//     series: number[];
+//     labels: string[];
+// }
+
 const BarChart = () => {
 
     const options = {
